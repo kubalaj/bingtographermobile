@@ -1,0 +1,68 @@
+﻿<!--Page2.xaml is the main display of our App. It allows the user to start
+    tracking with the application as well as view themselves on a map, display distance 
+    and speed. The map will alongside a map display lines and data points collected
+    everytime the phone collectes a GPS cordinate. It then draws a line between all points.-->
+<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:maps="clr-namespace:Microsoft.Phone.Maps.Controls;assembly=Microsoft.Phone.Maps"
+    x:Class="Bingtographer_App.Page2"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!-- Set the Background Color to White and set row definitions, so that they
+    can be defined in the editor and not the code-->
+    <Grid x:Name="LayoutRoot" Background="#000000">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--Set the top title to pull text from the previous page. This will pull the title
+         Of the trail set in MainPage.xaml-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="textblock1" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--This Part will contain the body of the features and reports of the application-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <!--For the stack pannel we will display three pieces of information, the Distance Traveled, 
+            the speed and the status of the GPS; ie. whether or not the GPS on the phone is initialized, 
+            ready, or not turned on-->
+            <StackPanel Margin="0,425,0,-30">
+                <TextBlock x:Name="MenuDistance" Height="32" Text="Distance = 0 mi" FontFamily="Segoe WP Black" FontSize="24"/>
+                <TextBlock x:Name="MenuSpeed" Height="47" Text="Speed = 0 mi/hr" FontFamily="Segoe WP Black" FontSize="24"/>
+                <TextBlock x:Name="StatusTextBlock" FontFamily="Segoe WP Black" FontSize="24"/>
+            </StackPanel>
+            <!--This is the actual map display the rectangle is just an asethic feature used to help differentiate between
+            the map and the other pieces of the phone. It's color is a gunmental grey. Included in this is also a map,
+            which is from the built in tools from visual studio.-->
+            <Rectangle Fill="#292E37" HorizontalAlignment="Left" Height="447" Margin="-20,-22,-24,0" Stroke="Black" VerticalAlignment="Top" Width="500"/>
+            <maps:Map x:Name="mapWithMyLocation" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="385" Width="436" PedestrianFeaturesEnabled="True"
+      LandmarksEnabled="True"/>
+        </Grid>
+        <Grid>
+            <!--This is the image logo at the top of the app. The logo was designed by Erin Anderson-->
+            <Image HorizontalAlignment="Left" Height="43" Margin="161,0,-57,0" VerticalAlignment="Top" Width="376" Source="/Bingtographer_Icons/Logo2White.png"/>
+        </Grid>
+    </Grid>
+
+    <!--This pull up menu is the start location button of the phone. It will actually start the app and start tracing.
+    It pulls up because of an old design choice to display more features in the pull up menu as well as to follow windows
+    phones design patterns.-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar Mode="Default" IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton Click="Start_Click" IconUri="/Bingtographer_Icons/transport.play.png" Text="begin trace"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

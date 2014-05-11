@@ -1,0 +1,72 @@
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Bingtographer App.dll.config
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Bingtographer App.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Bingtographer App.pdb
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\AppManifest.xaml
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Bingtographer_App_Debug_AnyCPU.xap
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\ImageResizer.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\System.Net.Http.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\ImageResizer.xml
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\System.Net.Http.xml
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\obj\Debug\App.g.cs
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\obj\Debug\MainPage.g.cs
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\obj\Debug\Page2.g.cs
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\obj\Debug\Bingtographer App.g.resources
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\obj\Debug\Bingtographer_App.Resources.AppResources.resources
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\obj\Debug\Bingtographer App.csproj.GenerateResource.Cache
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\obj\Debug\Bingtographer App.dll
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\obj\Debug\Bingtographer App.pdb
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\obj\Debug\XapCacheFile.xml
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\obj\Debug\Home.g.cs
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\obj\Debug\List.g.cs
+C:\Users\Paul\documents\visual studio 2013\Projects\Bingtographer App\Bingtographer App\obj\Debug\Bingtographer App.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\Bingtographer_Icons\Documentation\Assets\ApplicationIcon.png
+C:\Users\Paul\Desktop\Bingtographer_Icons\Documentation\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Paul\Desktop\Bingtographer_Icons\Documentation\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Paul\Desktop\Bingtographer_Icons\Documentation\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Paul\Desktop\Bingtographer_Icons\Documentation\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Paul\Desktop\Bingtographer_Icons\Documentation\Assets\Tiles\IconicTileSmall.png
+C:\Users\Paul\Desktop\Bingtographer_Icons\Documentation\Bingtographer App.dll.config
+C:\Users\Paul\Desktop\Bingtographer_Icons\Documentation\Bingtographer App.dll
+C:\Users\Paul\Desktop\Bingtographer_Icons\Documentation\Bingtographer App.pdb
+C:\Users\Paul\Desktop\Bingtographer_Icons\Documentation\AppManifest.xaml
+C:\Users\Paul\Desktop\Bingtographer_Icons\Documentation\Properties\WMAppManifest.xml
+C:\Users\Paul\Desktop\Bingtographer_Icons\Documentation\Bingtographer_App_Debug_AnyCPU.xap
+C:\Users\Paul\Desktop\Bingtographer_Icons\Documentation\Documentation.XML

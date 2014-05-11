@@ -1,0 +1,41 @@
+﻿<!--Home.xaml is the splash page of our phone application it contains an image
+    logo and a add new trace button to begin new traces and start using the application-->
+    <phone:PhoneApplicationPage
+    x:Class="Bingtographer_App.Home"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Background="OrangeRed"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed. Make the background
+    black like the other pages-->
+    <Grid x:Name="LayoutRoot" Background="#000000">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <!--Here we have our main logo as well as the -->
+            <Button Content="Add New Trace" HorizontalAlignment="Left" Height="109" Margin="61,614,0,0" 
+                    VerticalAlignment="Top" Width="336" Click="Button_Click" Background="#292E37"/>
+            <Image HorizontalAlignment="Left" Height="614" Margin="-5,10,0,0" 
+                   VerticalAlignment="Top" Width="461" Source="/Bingtographer_Icons/Logomapwhite.PNG"/>
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>
+    
